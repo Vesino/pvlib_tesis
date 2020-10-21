@@ -38,6 +38,7 @@ packaging==20.4
 pandas==1.1.3
 pandocfilters==1.4.2
 parso==0.7.1
+patsy==0.5.1
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==8.0.0
@@ -58,6 +59,7 @@ requests==2.24.0
 scipy==1.5.3
 Send2Trash==1.5.0
 six==1.15.0
+statsmodels==0.12.0
 terminado==0.9.1
 testpath==0.4.4
 tornado==6.0.4

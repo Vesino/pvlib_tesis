@@ -3,3 +3,6 @@ env_pvlib_tesis
 .ipynb_checkpoints/
 .Huerto MArio V./
 .Cutonala modulo e inversor/
+*.xls
+*.csv
+*.xlsx
